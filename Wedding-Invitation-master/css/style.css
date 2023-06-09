@@ -387,6 +387,14 @@ img {
 	margin: 32px 0;
 	color: #674ea7;
 }
+.title h3 {
+	font-family: 'Dancing Script', cursive;
+	font-weight: bold;
+	font-style: normal;
+	font-size: 40px;
+	margin: 32px 0;
+	color: #674ea7;
+}
 
 .title h2 {
 	font-family: 'Dancing Script', cursive;
